@@ -1,4 +1,4 @@
-#  
+#  new Script for fisch it offers the most advanced fisch it Script, with auto-heal and auto-sell. Perfect for dominating any match.
 
 
 
